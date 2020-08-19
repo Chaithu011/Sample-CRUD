@@ -1,0 +1,6 @@
+name: Blood Sugar Record & Prescription Management System
+type: module
+description: 'Module to handle Blood Sugar Record & Prescription Management System.'
+package: BSRPMS
+core: 8.x
+package: Custom
